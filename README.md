@@ -5,7 +5,7 @@ Selected Publications (* means equal contribution)
 2. Edwin Meriaux* and Shuo Wen*, Louis-Roy Langevin, Doina Precup, Antonio Loria, Gregory Dudek. On Mobile Ad Hoc Networks for Coverage of Partially Observable Worlds. Under review at IEEE Transactions on Robotics (TRO).
 
 
-3. Shuo Wen*, Edwin Meriaux*, Mariana Sosa Guzman*, Zhizun Wang, Junming Shi, Gregory Dudek. Stable Multi-Drone GNSS Tracking System for Marine Robots. Under review at International Conference on Robotics and Automation (ICRA) 2026. \href{https://arxiv.org/pdf/2511.18694}
+3. Shuo Wen*, Edwin Meriaux*, Mariana Sosa Guzman*, Zhizun Wang, Junming Shi, Gregory Dudek. Stable Multi-Drone GNSS Tracking System for Marine Robots. Under review at International Conference on Robotics and Automation (ICRA) 2026. https://arxiv.org/pdf/2511.18694
 
 
 4. Yumeng Zhao, Shuo Wen, Junjie Shen, Heng Lu, Xiaoqing Lyu, Bei Hua. A Sign-aware Graph Transformer with Prototypical Objectives for Signed Link Prediction. Under review at International Conference on Learning Representations (ICLR) 2026.
