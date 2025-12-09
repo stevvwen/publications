@@ -12,15 +12,15 @@ Selected Publications (* means equal contribution)
 
 
 
-5. Shuo Wen* and Edwin Meriaux*, Mariana Sosa Guzman, Charlotte Morissette, Chloe Si, Bobak Baghi, Gregory Dudek. Scalable Aerial GNSS Localization for Marine Robots. International Conference on Robotics and Automation (ICRA) 2025 Workshop Robots in the Wild.
+5. Shuo Wen* and Edwin Meriaux*, Mariana Sosa Guzman, Charlotte Morissette, Chloe Si, Bobak Baghi, Gregory Dudek. Scalable Aerial GNSS Localization for Marine Robots. International Conference on Robotics and Automation (ICRA) 2025 Workshop Robots in the Wild. https://arxiv.org/abs/2505.04095
 
 
-6. Yumeng Zhao, Hongxiang Lin, Shuo Wen, Junjie Shen, Bei Hua. SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems. ACM Knowledge Discovery and Data Mining (KDD) 2025.
+6. Yumeng Zhao, Hongxiang Lin, Shuo Wen, Junjie Shen, Bei Hua. SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems. ACM Knowledge Discovery and Data Mining (KDD) 2025. https://dl.acm.org/doi/10.1145/3711896.3737132
 
-7. Chuqiao Si, Shuo Wen, David Stephens. Beyond Gaussian Processes: A Neural Refinement Approach for Optimizing Dynamic Treatment Regimes.  Statistical Society of Canada (SSC) 2025
+7. Chuqiao Si, Shuo Wen, David Stephens. Beyond Gaussian Processes: A Neural Refinement Approach for Optimizing Dynamic Treatment Regimes.  Statistical Society of Canada (SSC) 2025 https://ssc.ca/en/meeting/annual/presentation/beyond-gaussian-processes-a-neural-refinement-approach-optimizing
 
 
 
 Supervision
 
-1. Murad Ismayilov, Edwin Meriaux, Shuo Wen, Gregory Dudek. Decentralized Multi-Agent Goal Assignment for Path Planning using Large Language Models. IEEE MIT Undergraduate Research Technology Conference (URTC) 2025.
+1. Murad Ismayilov, Edwin Meriaux, Shuo Wen, Gregory Dudek. Decentralized Multi-Agent Goal Assignment for Path Planning using Large Language Models. IEEE MIT Undergraduate Research Technology Conference (URTC) 2025. https://arxiv.org/abs/2510.23824
