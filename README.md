@@ -2,7 +2,7 @@ Selected Publications (* means equal contribution)
 1. Lirong Che* and Shuo Wen*, Shan Huang, Wang Chuang, Yuzhe Yang, Gregory Dudek, Xueqian Wang, Jian Su. MANSION: Multi-floor lANguage-to-3D Scene generatIOn for loNg-horizon tasks. Under review at Conference on Computer Vision and Pattern Recognition (CVPR) 2026.
 
 
-2. Edwin Meriaux* and Shuo Wen*, Louis-Roy Langevin, Doina Precup, Antonio Loria, Gregory Dudek. On Mobile Ad Hoc Networks for Coverage of Partially Observable Worlds. Under review at IEEE Transactions on Robotics (TRO).
+2. Edwin Meriaux* and Shuo Wen*, Louis-Roy Langevin, Doina Precup, Antonio Loria, Gregory Dudek. On Mobile Ad Hoc Networks for Coverage of Partially Observable Worlds. Under review at IEEE Transactions on Robotics (TRO). https://arxiv.org/abs/2512.09495
 
 
 3. Shuo Wen*, Edwin Meriaux*, Mariana Sosa Guzman*, Zhizun Wang, Junming Shi, Gregory Dudek. Stable Multi-Drone GNSS Tracking System for Marine Robots. Under review at International Conference on Robotics and Automation (ICRA) 2026. https://arxiv.org/pdf/2511.18694
